@@ -53,5 +53,6 @@ copyright: Copyright & copy; 2022 赵晨越 # 左下角的版权声明
 nav:
   - index.md
   - CMU Computing Service:
-    - VMWare: main.md
+    - VMWare:
+      - main.md
 
