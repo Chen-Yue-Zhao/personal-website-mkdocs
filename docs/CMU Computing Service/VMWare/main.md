@@ -11,3 +11,4 @@ Download Link: [https://cmu.onthehub.com/WebStore/Welcome.aspx
 ### After check-out you will get your license key. Keep it secure.
 ![Alt text](image-1.png)
 
+### Open VMWare and setup, enter your license key and finish setting up
