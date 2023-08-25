@@ -1,8 +1,8 @@
 # [Info]
-site_name: CS Master Admission # 左上角标题
-site_url: https://chen-yue-zhao.github.io/MSAdmissionSite_mkdocs/
-site_author: GeorgeZhao
-site_description: CS Master 留学申请
+site_name: George's Personal Website # 左上角标题
+site_url: https://chen-yue-zhao.github.io/personal-website-mkdocs/
+site_author: George Zhao
+site_description: Personal Blog
 
 
 # [UI]
@@ -34,10 +34,10 @@ theme:
     repo: fontawesome/brands/github
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
 ## [top-right corner]
-repo_url: https://github.com/Chen-Yue-Zhao/MSAdmissionSite_mkocs
-repo_name: Chen-Yue-Zhao/MSAdmissionSite_mkocs # 右上角的名字
+repo_url: https://github.com/Chen-Yue-Zhao/personal-website-mkdocs
+repo_name: Chen-Yue-Zhao/personal-website-mkdocs # 右上角的名字
 ## [bottom-left corner]
-copyright: Copyright & copy; 2022 赵晨越 # 左下角的版权声明
+copyright: Copyright & copy; 2023 赵晨越 # 左下角的版权声明
 ## [bottom-right corner]
 # extra:
 #   social: # icons
